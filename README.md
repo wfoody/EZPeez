@@ -93,12 +93,11 @@ Here are some images of our code and our product.
 <!-- CONTACT -->
 ## Team Members
 
-Dominic Waters - (dominicwaters12@gmail.com) - email   (https://github.com/DomWat) - github <br>
-Cristina Hernandez - (cristinahdz29@gmail.com) - email (https://github.com/cristinahdz29) - github<br>
-Shannel Philp - (shannel.philp@yahoo.com) - email (https://github.com/S-Philp) - github<br>
-Will Foody - (foodyw@gmail.com) - email (https://github.com/wfoody) - github<br>
+Dominic Waters - (dominicwaters12@gmail.com) <br>
+Cristina Hernandez - (cristinahdz29@gmail.com)<br>
+Shannel Philp - (shannel.philp@yahoo.com)<br>
+Will Foody - (foodyw@gmail.com)<br>
 
-Project Link: [https://github.com/cristinahdz29/frontend_project.git](https://github.com/github_username/repo_name)
 
 
 
