@@ -1,5 +1,5 @@
 # <p align="center"><b>EZPeeZ</b>
-An app developed to make finding a public restroom near you that much easier. We hope that this will allow people of all walks of life to find suitable public restrooms near them. </p>
+A front-end web application designed to locate restrooms near you, including filters for wheelchair accessibility and gender neutrality. </p>
 
 # <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{DomWat}/count.svg) You're welcome for the EZPeeing!
 
